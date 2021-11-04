@@ -17,3 +17,4 @@
 * Vision
 * Wasp
 * Antman
+* Adam Warlock
